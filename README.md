@@ -53,9 +53,10 @@ Educational web project exploring Spanish historical and cultural themes through
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dito-dileep&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dito-dileep&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dito-dileep&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dito-dileep&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 
 ---
 
