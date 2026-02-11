@@ -1,56 +1,69 @@
-# Hi, I'm Dito Dileep Reg no RA2411026010050 👋
-
-🎓 B.Tech Computer Science (AI & ML)  
-🏫 SRM Institute of Science & Technology, Chennai  
-
-💡 Passionate about Software Development, AI, and Problem Solving  
-🚀 Exploring Git, GitHub & Software Engineering practices  
+<h1 align="center">Hi, I'm Dito Dileep (RA2411026010050)👋</h1>
+<h3 align="center">B.Tech CSE (AI & ML) | Aspiring Software Engineer | SRM IST</h3>
 
 ---
 
-## 🔗 My Main GitHub Account
+## 🚀 About Me
 
-👉 **Personal GitHub:**  
-https://github.com/dito-dileep
+🎓 Computer Science (AI & Machine Learning) student at **SRM Institute of Science & Technology, Chennai**  
+💡 Passionate about **Software Development, Artificial Intelligence & Problem Solving**  
+🛠 Focused on building real-world applications  
+🎯 Actively seeking internship opportunities  
 
 ---
 
-## 💼 Featured Projects (From Main Profile)
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌐 Web & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 Interests
+`Artificial Intelligence` • `Machine Learning` • `Backend Development` • `Android Development`
+
+---
+
+## 📌 Featured Projects
 
 ### 🧠 Hireo Hackathon
-AI-assisted proctored hiring platform with recruiter dashboards and integrity monitoring.  
+AI-assisted proctored hiring platform with recruiter dashboards and candidate integrity reports.  
 🔗 https://github.com/dito-dileep/hireo-hackathon
 
 ---
 
 ### 📱 SRM Campus Safety App
-Android (Java) app for student safety with SOS, GPS location & emergency contact features.  
+Native Android (Java) application with SOS alerts, GPS tracking, emergency contact integration, and campus safety features.  
 🔗 https://github.com/dito-dileep/SRM-CampusSafety-app
 
 ---
 
 ### 🌎 Español Freedom Fighters
-Educational web project exploring Spanish historical and cultural themes.  
+Educational web project exploring Spanish historical and cultural themes through project-based learning.  
 🔗 https://github.com/dito-dileep/espanol-freedom-fighters
 
 ---
 
-## 🛠 Technical Skills
+## 📊 GitHub Stats
 
-- Python  
-- Java  
-- C++  
-- C  
-- HTML  
-- Git & GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dito-dileep&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dito-dileep&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/dito-dileep/  
+🔗 LinkedIn: https://www.linkedin.com/in/d ito-dileep/  
 🔗 GitHub: https://github.com/dito-dileep  
 
 ---
 
-⭐ This account (ditodileep050) is used for academic and GitFlow practice work.
+⭐ Always learning. Always building.
